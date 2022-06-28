@@ -1,0 +1,7 @@
+Usa-se a forma de html, porem é necessario linkar os 3 links, um sendo do react  em si, o outro do react dom 
+e o ultimo sendo do react babel.
+
+No body, cria-se uma div: <div id="app"></div>;
+e em seguida um <script type="text/babel"></script>; Em baixo pode criar as funções ou classes desejadas.
+
+E lembrar de adicionar a forma para esse react renderizar, com ReactDOM.react(<App/>, document.querySelector('#app')) e é necessario selecionar a id do app.
